@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_twitter: ^1.1.2
+#  flutter_twitter: ^1.1.2
 
   firebase_auth: ^0.14.0+5
   
